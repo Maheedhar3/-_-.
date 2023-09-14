@@ -1,1 +1,1 @@
-# -_-.
+This repository contains all the tasks which I performed as a part of the Oasis Infobyte Graphic Design Internship. Task1: Digital poster and flier, Task2: Logo for a business, Task3: Business cards for a business person, task5: Design a magazine or brochure on a certain topic these are the tasks which I have performed
